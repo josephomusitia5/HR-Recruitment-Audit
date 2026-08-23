@@ -29,6 +29,6 @@ The final deliverable is a dynamic, interactive Excel dashboard built for HR Dir
 ![HR Recruitment Dashboard](hr-recruitment-dashboard.png)
 
 ## 📂 How to Use This Repository
-1. Download the `HR_Audit_Project.xlsx` file.
+1. Download the [HR_Audit_Project.xlsx](HR_Audit_Project.xlsx) file.
 2. Open in Microsoft Excel (ensure macros/content are enabled if prompted).
 3. Use the **Filter by Channel** slicer on the right side of the Dashboard tab to interact with the data model.
